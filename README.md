@@ -3,4 +3,7 @@
 ![Site Funnel](I1.png)
 
 - The site funnel shows a 17% conversion from product show to click, 32% from click to order, and an overall 5.6% conversion from show to order.
+- 
+### 📊 Product wise Site Funnel Analysis
+- ![Site Funnel](I2.png)
 
