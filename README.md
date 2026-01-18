@@ -50,3 +50,4 @@ Seasonality trend
 
 - Across all product banners, a recurring **weekly seasonal pattern** is observed: click activity increases at the start of the week, declines mid-week, rises again around Thursday, and decreases during weekends and holidays.
 
+![Site Funnel](I9.png)
