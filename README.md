@@ -45,3 +45,8 @@ Seasonality trend
 ![Site Funnel](I7.png)
 - The majority of first-time orders—primarily for clothing, followed by sneakers and accessories—occur after users view company-related banners; however, most users do not take further actions after completing their first purchase.
 
+![Site Funnel](I8.png)
+- Click activity on company-related banners shows a sharp increase from **January 20 to February 17**, after which it follows a trend similar to other banner categories.
+
+- Across all product banners, a recurring **weekly seasonal pattern** is observed: click activity increases at the start of the week, declines mid-week, rises again around Thursday, and decreases during weekends and holidays.
+
