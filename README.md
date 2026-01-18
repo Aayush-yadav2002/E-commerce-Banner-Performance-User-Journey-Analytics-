@@ -30,3 +30,16 @@ Seasonality trend
 
 - **Company-related banners** show the lowest engagement among mobile users, suggesting limited effectiveness for direct conversion-driven campaigns.
 
+## ⏱ Time-Based Banner Performance Insights
+![Site Funnel](I6.png)
+- All banner categories were displayed across similar time periods, allowing for a fair comparison of user engagement and conversion behavior.
+
+- **Clothing banners** receive the highest click activity during **7–9 a.m.**, while orders are consistently placed throughout the day, primarily from **10 a.m. to midnight**.
+
+- **Sneaker banners** follow a similar pattern, with peak click activity in the **7–9 a.m.** window and steady order placements during later hours.
+
+- **Accessories banners** generate fewer clicks overall, with peak engagement occurring during **7–9 a.m.**; however, most purchases occur during daytime hours (**11 a.m.–8 p.m.**).
+
+- **Sports nutrition banners** show limited click activity, peaking during **7–9 a.m.**, while orders are primarily concentrated during **11 a.m.–8 p.m.**, indicating delayed conversion behavior.
+
+
