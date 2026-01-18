@@ -42,4 +42,6 @@ Seasonality trend
 
 - **Sports nutrition banners** show limited click activity, peaking during **7–9 a.m.**, while orders are primarily concentrated during **11 a.m.–8 p.m.**, indicating delayed conversion behavior.
 
+![Site Funnel](I7.png)
+- The majority of first-time orders—primarily for clothing, followed by sneakers and accessories—occur after users view company-related banners; however, most users do not take further actions after completing their first purchase.
 
